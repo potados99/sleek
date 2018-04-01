@@ -2,6 +2,7 @@
 layout: post
 title: 블로그 시작
 date: 2018-3-18 01:00:00 +0900
+summary: 새로운 시작
 featured-img: blog
 ---
 

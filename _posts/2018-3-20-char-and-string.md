@@ -1,6 +1,8 @@
---- 
-layout: post 
+---
+layout: post
 title: 문자와 문자열
+date: 2018-3-20 15:00:00 +0900
+summary: 문자와 문자열의 차이
 featured-img: words
 ---
 

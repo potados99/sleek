@@ -2,6 +2,7 @@
 layout: post
 title: Git 다루기
 date: 2018-3-18 15:00:00
+summary: GitHub로 Git을 사용해보자
 featured-img: git
 ---
 
@@ -34,7 +35,7 @@ git clone [저장소 url]
 ## Git 명령어
 
 * git init: 현재 디렉터리를 git으로 관리하도록 초기화하는 명령어이다. clone을 사용하여 저장소를 불러왔으면 자동으로 git 디렉터리가 생성되어 이 명령어를 사용할 필요가 없다.
-* git remote: 현재 등록된 원격 저장소를 보거나 추가할 수 있다. 
+* git remote: 현재 등록된 원격 저장소를 보거나 추가할 수 있다.
 
 다음은 가장 많이 쓰이는 명령어이다.
 * git add [file]: 해당 파일 또는 디렉터리를 git에 등록해 변경 사항을 추적하겠다는 명령어이다. add 명령어로 추가되지 않은 파일은 commit을 할 때 무시된다.
