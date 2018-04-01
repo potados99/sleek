@@ -1,18 +1,15 @@
 ---
 layout: page
-title: Contact
+title: 연락처
 permalink: /contact/
 ---
 
-Jekyll is a great tool to create static sites, but there’s no backend to send your data to.
+반가우시면 인사 하나만 보내주세요.
 
-However, you can use free SaaS as a backend for forms, such as [Formspree](https://formspree.io/) to handle form submissions. Sleek has a configured form using formspree ready for you. All you have to do is change the email in `_js/scripts.js` and `.config.yml`. 
+### 다음 양식을 작성해서 보내주세요!
 
-Check the form below to see it in action!
+양식을 작성하거나 [메일](mailto:{{site.email}}) 주세요.
 
-### Example Formspree contact form with validation and reCaptcha
-
-Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
 
 {% include form.html %}
 
