@@ -1,7 +1,6 @@
-<svg class="logo" version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="750.000000pt" height="500.000000pt" viewBox="0 0 1500.000000 400.000000"
+<svg class="logo" version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47 15"
  preserveAspectRatio="xMidYMid meet">
-  <g id="logo" transform="translate(0.000000,400.000000) scale(0.100000,-0.100000)"
+  <g id="logo" transform="translate(1,12) scale(0.003,-0.003)"
   fill="#222222" stroke="none">
     <path d="M3503 3080 c-429 -44 -740 -343 -840 -810 -22 -105 -25 -411 -5 -505
     81 -371 258 -613 546 -745 105 -48 176 -67 312 -81 315 -32 599 64 800 273
