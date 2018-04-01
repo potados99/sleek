@@ -3,7 +3,7 @@ layout: post
 title: 파이썬 코드 스타일
 date: 2018-3-23 15:14:40 +0900
 summary: 파이썬으로 작성하는 효율적이고 읽기 편한 코드 스타일
-featured-img: python.jpg
+featured-img: python
 ---
 
 파이썬 코드는 읽기 쉽다. 대체로 코드가 간결하며, 엄격한 들여쓰기로 코드 블럭을 구분하기 쉽다.  

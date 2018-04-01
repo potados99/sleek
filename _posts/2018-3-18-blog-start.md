@@ -2,7 +2,7 @@
 layout: post
 title: 블로그 시작
 date: 2018-3-18 01:00:00 +0900
-featured-img: blog.jpg
+featured-img: blog
 ---
 
 ## GitHub 블로그 시작

@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: 문자와 문자열
-featured-img: words.jpg
+featured-img: words
 ---
 
 ## 발단

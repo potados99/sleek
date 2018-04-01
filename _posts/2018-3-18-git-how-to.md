@@ -2,7 +2,7 @@
 layout: post
 title: Git 다루기
 date: 2018-3-18 15:00:00
-featured-img: git.jpg
+featured-img: git
 ---
 
 ## Git이란?

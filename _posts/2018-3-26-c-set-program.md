@@ -3,7 +3,7 @@ layout: post
 title: C언어로 집합 연산 프로그램 만들기
 date: 2018-3-26 16:23:51 +0900
 summary: C로 쓸만한 프로그램을 만들어 보자.
-featured-img: c.jpg
+featured-img: c
 ---
 
 C언어는 평소에 잘 안 쓴다. 불편하기도 하고 이것저것 신경쓸 일이 많아 로직에 집중하기 어렵기 때문이다.  
