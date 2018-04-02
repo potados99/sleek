@@ -6,7 +6,7 @@ summary: 마크다운 사용법 알아보기
 featured-img: markdown
 ---
 
-이 포스트의 원문은 [adam-p/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 이다.
+> 이 포스트의 원문은 [adam-p/markdown-here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 입니다.
 
 ##### table of contents
 [Header](#headers)  
