@@ -215,4 +215,4 @@ gulp.task('serve', function() {
   });
 });
 
-gulp.task('build', ['img', 'sass', 'js', 'sw']);
+gulp.task('build', ['sass', 'js', 'jekyll-build', 'img', 'sw']);
