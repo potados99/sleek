@@ -9,7 +9,7 @@ featured-img: typing
 프로그램을 작성하다 보면 사용자로부터 입력을 받을 일이 생긴다. 그래서 다음과 같이 작성하곤 한다.
 
 ```c
-#include <stdio.h>
+#include <stdio.h> 
 
 int main() {
 
