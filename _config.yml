@@ -2,7 +2,7 @@ title: 개발일지 # your site title
 author: June
 email: potados99@gmail.com # email for form submission, you also have to change it in _js/scripts.js
 description: > # this means to ignore newlines until "baseurl:"
-  개발일지 겸 공부한 것 적어놓는 저장소이자 일기장입니다.
+  감자 구워먹는 블로그입니다.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: # replace with your_twitter_username or comment to remove link from footer

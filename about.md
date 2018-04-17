@@ -5,7 +5,8 @@ featured-img: title
 permalink: /about/
 ---
 
-컴퓨터와 사진을 좋아합니다. 배울 건 많은데 신나게 놀고 있습니다.
+초짜 프로그래머.
+컴퓨터와 사진을 좋아합니다. 
 
 현재 진행중인 프로젝트:
 - [Mass-slide](https://github.com/potados99/Mass-slide)
