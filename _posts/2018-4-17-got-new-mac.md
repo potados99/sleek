@@ -20,7 +20,7 @@ featured-img: new_mac
 
 ![박스](https://raw.githubusercontent.com/potados99/potados99.github.io/master/assets/img/posts/new_mac_md.jpg)  
 
-설레는 마음으로 박스를 열었다. 포장 비닐을 제거하는 것은 직원분꼐서 도와주셨다.
+설레는 마음으로 박스를 열었다. 포장 비닐을 제거하는 것은 직원분께서 도와주셨다.
 
 ![개봉](https://raw.githubusercontent.com/potados99/potados99.github.io/master/assets/img/posts/new_mac_open_md.jpg)
 >우와...
